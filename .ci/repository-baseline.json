@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "repository": "gcake119/takao-document-engine",
+  "role": "document-engine",
+  "coordination": "https://github.com/gcake119/takao-city",
+  "applicationStatus": "not-initialized",
+  "verificationScope": "repository-baseline-only",
+  "applicationVerification": "not-implemented-not-tested"
+}
